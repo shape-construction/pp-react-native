@@ -28,3 +28,15 @@ Implement a simple and clean UI using React Native styling.
 - You can use Expo Router (already configured) for navigation between screens.
 - No need for persistent storage (local storage or database). Just keep the data in the app state.
 - Focus on functionality over advanced styling.
+
+## Running instructions
+
+Install required dependencies:
+```
+npm install
+```
+
+Start the application:
+```
+npm run web
+```
